@@ -1,42 +1,65 @@
 ---
 description: >-
-  On-chain ads provide permanent space in the Astroverse that also sends alerts
-  to community Telegram group for verifiable reach and rewards.
+  On-chain Ads — mintable NFT placements, permanent in-world visibility, and
+  Zenith / Core / Nebule placement bands.
+icon: billboard
+layout:
+  width: wide
 ---
 
-# 📰 On-chain Ads
+# On-chain Ads
 
-* Sponsored space billboards
-* Brand Activations
+<figure><img src=".gitbook/assets/billboards.png" alt="On-chain ad placements in Astroverse X"><figcaption>Sponsored placements inside the Astroverse.</figcaption></figure>
 
-<figure><img src=".gitbook/assets/billboards.png" alt=""><figcaption></figcaption></figure>
+**Permanent on-chain ad placements** in the Astroverse — **mintable NFT ownership**, lasting visibility, and pricing tied to **premium placement bands**.
 
-## On-Chain Ads
+Projects, communities, creators, and brands get **interactive billboards** inside a live multiplayer world — not a dead banner on a static landing page.
 
-Shiba Astroverse introduces an interactive on-chain advertising ecosystem integrated directly into the universe.
+{% hint style="success" %}
+**Reach that hits:** Placements sit in-world where players actually fly. Visibility persists; ownership is verifiable on-chain.
+{% endhint %}
 
-Projects, communities, creators, and brands may be able to advertise inside the Astroverse through digital billboards and interactive advertising locations.
+---
 
-### Features
+## What you buy
 
-* Digital space billboards
-* Interactive ad locations
-* Community promotion systems
-* Sponsored sectors
-* Multiplayer visibility
-* Persistent advertising zones
+* Digital space billboards & sponsored zones
+* **NFT ad ownership** — Q2 2026 launch target ([Roadmap](roadmap.md))
+* Multiplayer visibility — ads seen during live sessions
+* Brand activations and community promotion slots
+* Alerts/community reach hooks (e.g. Telegram visibility for campaigns)
 
-### Vision
+<figure><img src="https://astroversex.com/img/webad/1.png" alt="On-chain ad dashboard"><figcaption>Ad dashboard — placements, controls, sponsored slots.</figcaption></figure>
 
-The goal is to create one of the first interactive metaverse advertising systems connected directly to blockchain ecosystems.
+---
 
-### Future Expansion
+## Placement bands
 
-Future advertising systems may include:
+Pricing scales with **position** — higher bands = wider arc and more eyeballs.
 
-* NFT ad ownership
-* Ad marketplaces
-* Dynamic rotating ads
-* Sponsored events
-* Clan sponsorships
-* Interactive campaigns
+| Band | Placement |
+| --- | --- |
+| **Zenith drift** | Top band — widest arc above the horizon ring |
+| **Core orbit** | Middle band — flagship wall placements |
+| **Nebule floor** | Lower band — under-rim slots |
+
+{% hint style="info" %}
+**Zenith = premium.** Core = workhorse visibility. Nebule = efficient floor — still in-universe, still on-chain.
+{% endhint %}
+
+---
+
+## Vision
+
+One of the first **interactive metaverse ad layers** wired to blockchain ecosystems — where impressions happen during **play**, not after bounce.
+
+---
+
+## Roadmap expansion
+
+* NFT ad marketplace dynamics
+* Dynamic / rotating creative
+* Sponsored events and clan sponsorships
+* Interactive campaign formats
+
+<a href="https://t.me/astroverseX" class="button primary" data-icon="telegram">Ask about placements</a>

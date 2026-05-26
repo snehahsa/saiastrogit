@@ -1,38 +1,48 @@
+---
+description: >-
+  Treasure Hunt — exploration gameplay, hidden rewards, and time-limited events
+  across Astroverse sectors.
+icon: gem
+---
+
 # Treasure Hunt
 
-<figure><img src="../.gitbook/assets/photo_2026-05-16_12-49-08.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/photo_2026-05-16_12-49-08.jpg" alt="Treasure Hunt mode"><figcaption>Chase rewards across the map.</figcaption></figure>
 
-## Treasure Hunt
+**Treasure Hunt** is pure exploration dopamine.
 
-Treasure Hunt introduces exploration-based gameplay throughout the Astroverse.
+Hidden rewards, rare pickups, and event loot scattered across sectors — first to the cache, first to the flex.
 
-Players search for hidden rewards, rare collectibles, and special event treasures scattered across different sectors of space.
+---
 
-### Features
+## Mode features
 
-* Hidden reward zones
-* Randomized treasure locations
-* Exploration rewards
+* Hidden reward zones and randomized spawns
+* Exploration bonuses for map knowledge
 * Time-limited treasure events
 * Rare cosmetic unlocks
-* Seasonal treasure systems
+* Seasonal treasure rotations
 
-### Rewards
+---
 
-Potential rewards may include:
+## What you can earn
 
-* $ASTROVERSE rewards
-* Rare cosmetics
-* Event items
+Rewards tie into the wider economy:
+
+* **$ASTROVERSE** and quest/challenge payouts
+* **$ETH** and community-configured tokens (per admin setup)
+* Rare cosmetics and event items
 * Limited collectibles
-* Future NFT rewards
+* Future NFT-linked drops
 
-### Future Expansion
+{% hint style="warning" %}
+Rewards vary by event, season, and community world rules. Always check live announcements on [Telegram](https://t.me/astroverseX).
+{% endhint %}
 
-Treasure Hunt systems may expand into:
+---
 
-* Clan treasure wars
-* Massive universe-wide hunts
-* Puzzle sectors
-* Hidden dimensions
-* Legendary treasure events
+## Future scale
+
+Clan treasure wars, universe-wide hunts, puzzle sectors, hidden dimensions, and legendary one-shot events.
+
+<a href="https://app.astroversex.com/" class="button primary">Hunt now</a>

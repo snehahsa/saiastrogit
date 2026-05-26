@@ -1,38 +1,55 @@
+---
+description: >-
+  Multiverse Social — live hubs, real-time movement, public chat, and the social
+  core of Astroverse X.
+icon: users
+---
+
 # Multiverse Social
 
-<figure><img src="../.gitbook/assets/photo_2026-05-16_12-49-11.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/photo_2026-05-16_12-49-11.jpg" alt="Multiverse Social hubs"><figcaption>Hubs, meetups, shared space — the universe stays alive.</figcaption></figure>
 
-## Multiverse Social
+**Multiverse Social** is the heartbeat of Astroverse X.
 
-Multiverse Social is the social core of the Astroverse ecosystem.
+Shared multiplayer spaces where you meet, move, talk, and run community energy in **real time** — not a menu with a "friends online" counter.
 
-Players can enter shared multiplayer environments where they can meet, communicate, explore, and participate in community activities together in real time.
+---
 
-### Features
+## Live features
 
-* Live multiplayer interaction
-* Real-time player movement
-* Social hubs
-* Community gathering zones
-* Public chat systems
-* Event areas
-* Future creator districts
+* Real-time player movement across hubs
+* Community gathering zones and event areas
+* **Public live chat** visible to everyone in-session
+* Social sectors built for hangouts, not ghost towns
+* Future creator districts and branded community worlds
 
-### Purpose
+---
 
-The Astroverse is designed to feel alive.
+## Why it matters
 
-Players are not isolated users — they exist inside a persistent universe shared with the community.
+Most "metaverse" projects ship empty maps. Astroverse X is built so **players see each other** — chat scrolls, squads form, and meme communities can anchor **their** mascot in **their** slice of the multiverse ([Launchpad](multiverse-launchpad.md)).
 
-### Future Social Features
+{% hint style="success" %}
+**Bull case:** Social density = retention = on-chain activity. Hubs aren't cosmetic — they're where partnerships and launches get noticed.
+{% endhint %}
 
-Planned future features may include:
+---
 
-* Voice chat
-* Guild systems
-* Clan territories
-* Player housing
-* Social events
-* Interactive spaces
-* User-generated content
-* Community tournaments
+## Locations & economy (expanding)
+
+The experience integrates **live chat** plus interactive locations:
+
+* Shops
+* Clinics
+* Casinos
+* Community-driven economies
+
+Q3 2026 targets full expansion of these in-world locations — see [Roadmap](../roadmap.md).
+
+---
+
+## On the roadmap
+
+Voice chat, guilds, clan territories, player housing, hosted events, interactive spaces, UGC, and community tournaments.
+
+<a href="https://app.astroversex.com/" class="button secondary">Drop into a hub</a>
