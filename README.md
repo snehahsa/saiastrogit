@@ -38,7 +38,7 @@ Players earn native **$ETH**, **$ASTROVERSE**, and admin-configured community to
 \
 Beta is live!
 
-<a href="https://app.astroversex.com/" class="button primary" data-icon="play">Play now</a>&#x20;
+<a href="https://app.astroversex.com/" class="button primary" data-icon="gamepad">Play now</a>&#x20;
 
 ***
 
