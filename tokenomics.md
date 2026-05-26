@@ -1,6 +1,6 @@
 ---
 description: >-
-  $ASTROVERSE Will be launched on either Base or Ethereum mainnett — 1B supply,
+  $ASTROVERSE Will be launched on either Base or Ethereum mainnet — 1B supply,
   stealth launch, 85/15 allocation, 3/3 tax split, burns, rewards, and buybacks.
 icon: coins
 layout:
