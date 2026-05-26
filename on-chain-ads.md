@@ -5,11 +5,27 @@ description: >-
 icon: billboard
 layout:
   width: wide
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
 ---
 
 # On-chain Ads
 
-<figure><img src=".gitbook/assets/billboards.png" alt="On-chain ad placements in Astroverse X"><figcaption>Sponsored placements inside the Astroverse.</figcaption></figure>
+<figure><img src=".gitbook/assets/billboards.png" alt="On-chain ad placements in Astroverse X"><figcaption><p>Sponsored placements inside the Astroverse.</p></figcaption></figure>
 
 **Permanent on-chain ad placements** in the Astroverse — **mintable NFT ownership**, lasting visibility, and pricing tied to **premium placement bands**.
 
@@ -19,7 +35,7 @@ Projects, communities, creators, and brands get **interactive billboards** insid
 **Reach that hits:** Placements sit in-world where players actually fly. Visibility persists; ownership is verifiable on-chain.
 {% endhint %}
 
----
+***
 
 ## What you buy
 
@@ -29,31 +45,31 @@ Projects, communities, creators, and brands get **interactive billboards** insid
 * Brand activations and community promotion slots
 * Alerts/community reach hooks (e.g. Telegram visibility for campaigns)
 
-<figure><img src="https://astroversex.com/img/webad/1.png" alt="On-chain ad dashboard"><figcaption>Ad dashboard — placements, controls, sponsored slots.</figcaption></figure>
+<figure><img src="https://astroversex.com/img/webad/1.png" alt="On-chain ad dashboard"><figcaption><p>Ad dashboard — placements, controls, sponsored slots.</p></figcaption></figure>
 
----
+***
 
 ## Placement bands
 
 Pricing scales with **position** — higher bands = wider arc and more eyeballs.
 
-| Band | Placement |
-| --- | --- |
+| Band             | Placement                                    |
+| ---------------- | -------------------------------------------- |
 | **Zenith drift** | Top band — widest arc above the horizon ring |
-| **Core orbit** | Middle band — flagship wall placements |
-| **Nebule floor** | Lower band — under-rim slots |
+| **Core orbit**   | Middle band — flagship wall placements       |
+| **Nebule floor** | Lower band — under-rim slots                 |
 
 {% hint style="info" %}
 **Zenith = premium.** Core = workhorse visibility. Nebule = efficient floor — still in-universe, still on-chain.
 {% endhint %}
 
----
+***
 
 ## Vision
 
 One of the first **interactive metaverse ad layers** wired to blockchain ecosystems — where impressions happen during **play**, not after bounce.
 
----
+***
 
 ## Roadmap expansion
 
@@ -61,5 +77,3 @@ One of the first **interactive metaverse ad layers** wired to blockchain ecosyst
 * Dynamic / rotating creative
 * Sponsored events and clan sponsorships
 * Interactive campaign formats
-
-<a href="https://t.me/astroverseX" class="button primary" data-icon="telegram">Ask about placements</a>

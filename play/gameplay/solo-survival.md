@@ -7,13 +7,13 @@ icon: user-astronaut
 
 # Solo Survival
 
-<figure><img src="../.gitbook/assets/photo_2026-05-16_12-49-05.jpg" alt="Solo Survival mode"><figcaption>Pilot your mascot through the void — alone.</figcaption></figure>
+<figure><img src="../../.gitbook/assets/photo_2026-05-16_12-49-05.jpg" alt="Solo Survival mode"><figcaption><p>Pilot your mascot through the void — alone.</p></figcaption></figure>
 
 **Solo Survival** drops you into dangerous sectors with one job: **stay alive**.
 
-No squad buffer. No second chances in the chat. You manage hazards, thread asteroid fields, and scoop pickups while the clock works for you — **+10 PTS every second** you're still breathing (see [Points System](points-system.md)).
+No squad buffer. No second chances in the chat. You manage hazards, thread asteroid fields, and scoop pickups while the clock works for you — **+10 PTS every second** you're still breathing (see [Points System](../../gameplay/points-system.md)).
 
----
+***
 
 ## How it plays
 
@@ -23,7 +23,7 @@ No squad buffer. No second chances in the chat. You manage hazards, thread aster
 * Exploration rewards for pushing deeper
 * Leaderboard chase — endurance wins
 
----
+***
 
 ## Your loop
 
@@ -33,16 +33,19 @@ No squad buffer. No second chances in the chat. You manage hazards, thread aster
 
 Load into the sector. Get your bearings on health, oxygen, and the HUD.
 {% endstep %}
+
 {% step %}
 ### Survive & move
 
 Joystick + 360° cam. Dodge asteroids — each hit costs **3 PTS** off your run.
 {% endstep %}
+
 {% step %}
 ### Farm pickups
 
-Blue gems, yellow stars, pink crowns — score only, no heal refill (details on [Points System](points-system.md)).
+Blue gems, yellow stars, pink crowns — score only, no heal refill (details on [Points System](../../gameplay/points-system.md)).
 {% endstep %}
+
 {% step %}
 ### Cash the run
 
@@ -54,10 +57,8 @@ Blue gems, yellow stars, pink crowns — score only, no heal refill (details on 
 **Solo doesn't mean quiet.** Global live chat still runs — flex your score or coordinate before the next drop.
 {% endhint %}
 
----
+***
 
 ## What's next
 
 Planned expansions include AI enemies, procedural sectors, PvE missions, boss encounters, seasonal survival events, and rare collectible drops.
-
-<a href="https://app.astroversex.com/" class="button primary">Run Solo Survival</a>

@@ -13,61 +13,55 @@ Astroverse X runs in the **browser** on modern **phones and desktops** — one c
 **Desktop and mobile today.** Steam builds for Windows and macOS are on the roadmap as the product scales — see [FAQ](../faq.md).
 {% endhint %}
 
----
+***
 
 ## Control surfaces
 
 {% tabs %}
 {% tab title="Mobile HUD" %}
-
-<figure><img src="https://astroversex.com/img/how/mob.jpeg" alt="Mobile gameplay HUD"><figcaption>Mobile HUD and gameplay view.</figcaption></figure>
+<figure><img src="https://astroversex.com/img/how/mob.jpeg" alt="Mobile gameplay HUD"><figcaption><p>Mobile HUD and gameplay view.</p></figcaption></figure>
 
 Play on phone with on-screen controls: monitor **health**, **objectives**, and quick actions in a layout built for thumbs.
 
 * Full session from mobile browser
 * Health, objectives, and action cluster on one screen
 * Same universe as desktop — cross-play by design
-
 {% endtab %}
-{% tab title="Chat" %}
 
-<figure><img src="https://astroversex.com/img/how/chat.jpeg" alt="In-game chat panel"><figcaption>Live chat — visible to all players in-session.</figcaption></figure>
+{% tab title="Chat" %}
+<figure><img src="https://astroversex.com/img/how/chat.jpeg" alt="In-game chat panel"><figcaption><p>Live chat — visible to all players in-session.</p></figcaption></figure>
 
 Open in-game chat to coordinate during matches. Messages show to **all players currently in-session** — it's live, not async mail.
 
 * Public to everyone playing right now
 * Coordinate hunts, races, or hub meetups
-* Core to [Multiverse Social](multiverse-social.md)
-
+* Core to [Multiverse Social](../play/gameplay/multiverse-social.md)
 {% endtab %}
-{% tab title="Movement" %}
 
-<figure><img src="https://astroversex.com/img/how/control.jpeg" alt="Movement and action controls"><figcaption>Joystick, aim, and action buttons.</figcaption></figure>
+{% tab title="Movement" %}
+<figure><img src="https://astroversex.com/img/how/control.jpeg" alt="Movement and action controls"><figcaption><p>Joystick, aim, and action buttons.</p></figcaption></figure>
 
 Move with the **virtual joystick**, aim, and fire abilities from the action cluster.
 
 * **Nitro Boost** for burst movement (enabled now)
 * **Multiplayer chat** alongside movement
 * 360° camera for spatial awareness
-
 {% endtab %}
-{% tab title="Options" %}
 
-<figure><img src="https://astroversex.com/img/how/options.jpeg" alt="Options menu"><figcaption>Settings and preferences.</figcaption></figure>
+{% tab title="Options" %}
+<figure><img src="https://astroversex.com/img/how/options.jpeg" alt="Options menu"><figcaption><p>Settings and preferences.</p></figcaption></figure>
 
 Adjust controls, sensitivity, and preferences from the options menu without leaving the session.
-
 {% endtab %}
-{% tab title="Radar" %}
 
-<figure><img src="https://astroversex.com/img/how/radar.jpeg" alt="Radar panel"><figcaption>Real-time awareness indicators.</figcaption></figure>
+{% tab title="Radar" %}
+<figure><img src="https://astroversex.com/img/how/radar.jpeg" alt="Radar panel"><figcaption><p>Real-time awareness indicators.</p></figcaption></figure>
 
 Track enemies and nearby activity in real time with radar indicators — critical in PvP and dense hub zones.
-
 {% endtab %}
 {% endtabs %}
 
----
+***
 
 ## Wallet note
 

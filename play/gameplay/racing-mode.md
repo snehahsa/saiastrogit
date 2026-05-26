@@ -7,13 +7,13 @@ icon: flag-checkered
 
 # Racing Mode
 
-<figure><img src="../.gitbook/assets/photo_2026-05-16_12-49-10.jpg" alt="Racing Mode"><figcaption>Speed runs and competitive laps.</figcaption></figure>
+<figure><img src="../../.gitbook/assets/photo_2026-05-16_12-49-10.jpg" alt="Racing Mode"><figcaption><p>Speed runs and competitive laps.</p></figcaption></figure>
 
 **Racing Mode** is where movement skill pays.
 
 Dangerous space tracks, **nitro boost**, tight lines, and multiplayer chaos — finish fast or eat dust.
 
----
+***
 
 ## Features
 
@@ -23,7 +23,7 @@ Dangerous space tracks, **nitro boost**, tight lines, and multiplayer chaos — 
 * Time attack pressure
 * Seasonal tournament hooks (expanding)
 
----
+***
 
 ## Competitive loop
 
@@ -35,10 +35,9 @@ Dangerous space tracks, **nitro boost**, tight lines, and multiplayer chaos — 
 Racing pairs hard with [Multiverse Social](multiverse-social.md) — squad up in chat, then line up at the start.
 {% endhint %}
 
----
+***
 
 ## Coming later
 
 Ranked mode, team racing, custom maps, spectator mode, tournament prize pools, and deeper betting/social integrations where legally viable.
 
-<a href="https://app.astroversex.com/" class="button primary">Race</a>

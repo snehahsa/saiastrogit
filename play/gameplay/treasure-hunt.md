@@ -7,13 +7,13 @@ icon: gem
 
 # Treasure Hunt
 
-<figure><img src="../.gitbook/assets/photo_2026-05-16_12-49-08.jpg" alt="Treasure Hunt mode"><figcaption>Chase rewards across the map.</figcaption></figure>
+<figure><img src="../../.gitbook/assets/photo_2026-05-16_12-49-08.jpg" alt="Treasure Hunt mode"><figcaption><p>Chase rewards across the map.</p></figcaption></figure>
 
 **Treasure Hunt** is pure exploration dopamine.
 
 Hidden rewards, rare pickups, and event loot scattered across sectors — first to the cache, first to the flex.
 
----
+***
 
 ## Mode features
 
@@ -23,7 +23,7 @@ Hidden rewards, rare pickups, and event loot scattered across sectors — first 
 * Rare cosmetic unlocks
 * Seasonal treasure rotations
 
----
+***
 
 ## What you can earn
 
@@ -39,10 +39,8 @@ Rewards tie into the wider economy:
 Rewards vary by event, season, and community world rules. Always check live announcements on [Telegram](https://t.me/astroverseX).
 {% endhint %}
 
----
+***
 
 ## Future scale
 
 Clan treasure wars, universe-wide hunts, puzzle sectors, hidden dimensions, and legendary one-shot events.
-
-<a href="https://app.astroversex.com/" class="button primary">Hunt now</a>

@@ -7,13 +7,13 @@ icon: users
 
 # Multiverse Social
 
-<figure><img src="../.gitbook/assets/photo_2026-05-16_12-49-11.jpg" alt="Multiverse Social hubs"><figcaption>Hubs, meetups, shared space — the universe stays alive.</figcaption></figure>
+<figure><img src="../../.gitbook/assets/photo_2026-05-16_12-49-11.jpg" alt="Multiverse Social hubs"><figcaption><p>Hubs, meetups, shared space — the universe stays alive.</p></figcaption></figure>
 
 **Multiverse Social** is the heartbeat of Astroverse X.
 
 Shared multiplayer spaces where you meet, move, talk, and run community energy in **real time** — not a menu with a "friends online" counter.
 
----
+***
 
 ## Live features
 
@@ -23,17 +23,17 @@ Shared multiplayer spaces where you meet, move, talk, and run community energy i
 * Social sectors built for hangouts, not ghost towns
 * Future creator districts and branded community worlds
 
----
+***
 
 ## Why it matters
 
-Most "metaverse" projects ship empty maps. Astroverse X is built so **players see each other** — chat scrolls, squads form, and meme communities can anchor **their** mascot in **their** slice of the multiverse ([Launchpad](multiverse-launchpad.md)).
+Most "metaverse" projects ship empty maps. Astroverse X is built so **players see each other** — chat scrolls, squads form, and meme communities can anchor **their** mascot in **their** slice of the multiverse ([Launchpad](../../gameplay/multiverse-launchpad.md)).
 
 {% hint style="success" %}
 **Bull case:** Social density = retention = on-chain activity. Hubs aren't cosmetic — they're where partnerships and launches get noticed.
 {% endhint %}
 
----
+***
 
 ## Locations & economy (expanding)
 
@@ -44,9 +44,9 @@ The experience integrates **live chat** plus interactive locations:
 * Casinos
 * Community-driven economies
 
-Q3 2026 targets full expansion of these in-world locations — see [Roadmap](../roadmap.md).
+Q3 2026 targets full expansion of these in-world locations — see [Roadmap](../../roadmap.md).
 
----
+***
 
 ## On the roadmap
 

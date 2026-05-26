@@ -6,18 +6,18 @@
 
 ## Play
 
-* [Gameplay overview](gameplay/README.md)
-* [Solo Survival](gameplay/solo-survival.md)
-* [Multiverse Social](gameplay/multiverse-social.md)
-* [Treasure Hunt](gameplay/treasure-hunt.md)
-* [Racing Mode](gameplay/racing-mode.md)
+* [Gameplay overview](play/gameplay/README.md)
+  * [Solo Survival](play/gameplay/solo-survival.md)
+  * [Multiverse Social](play/gameplay/multiverse-social.md)
+  * [Treasure Hunt](play/gameplay/treasure-hunt.md)
+  * [Racing Mode](play/gameplay/racing-mode.md)
 * [Points System](gameplay/points-system.md)
 * [Controls & HUD](gameplay/controls.md)
 * [Multiverse Launchpad](gameplay/multiverse-launchpad.md)
 
 ## Economy
 
-* [Tokenomics](tokenomics.md)
+* [Tokenomics (To be Decided)](tokenomics.md)
 * [On-chain Ads](on-chain-ads.md)
 
 ## Build
