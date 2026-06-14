@@ -1,7 +1,7 @@
 ---
 description: >-
   Astroverse X : the first socially expandable Community Multiverse P2E game.
-  Fly, fight, earn $ETH, $ASTROVERSE, and community tokens. Beta is live in
+  Fly, fight, earn $ASTROVERSE and community tokens on Base. Beta is live in
   browser.
 icon: rocket
 layout:
@@ -34,7 +34,7 @@ layout:
 
 Fly with a virtual joystick and full **360° camera**, then drop into multiplayer: **live chat**, combat, nitro boosts, shops, clinics, casinos, and community-driven economies — all in one loop.
 
-Players earn native **$ETH**, **$ASTROVERSE**, and admin-configured community tokens through quests, challenges, survival runs, and treasure hunts.\
+Players earn native **$ASTROVERSE** and admin-configured community tokens on **Base** through quests, challenges, survival runs, and treasure hunts.\
 \
 Beta is live!
 
@@ -44,7 +44,7 @@ Beta is live!
 
 ## Sub-Sections:
 
-<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Gameplay</strong></td><td>Solo Survival, social hubs, treasure hunts, racing — plus scoring and controls.</td><td><a href="play/gameplay/">gameplay</a></td></tr><tr><td><strong>Tokenomics</strong></td><td>$ASTROVERSE on ETH. Stealth launch. Revenue → burns, rewards, buybacks.</td><td><a href="tokenomics.md">tokenomics.md</a></td></tr><tr><td><strong>On-chain ads</strong></td><td>Mintable NFT placements with permanent visibility in-world.</td><td><a href="on-chain-ads.md">on-chain-ads.md</a></td></tr><tr><td><strong>Launchpad</strong></td><td>Meme communities ship their own branded Astroverse — token, mascot, rules.</td><td><a href="gameplay/multiverse-launchpad.md">multiverse-launchpad.md</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Gameplay</strong></td><td>Solo Survival, social hubs, treasure hunts, racing — plus scoring and controls.</td><td><a href="play/gameplay/">gameplay</a></td></tr><tr><td><strong>Tokenomics</strong></td><td>$ASTROVERSE on Base. 5 ETH LP. 100% revenue share → buybacks, holders, P2E.</td><td><a href="tokenomics.md">tokenomics.md</a></td></tr><tr><td><strong>Revenue share</strong></td><td>100% of ecosystem revenue — buybacks, holder tax splits, and real P2E.</td><td><a href="revenue-share.md">revenue-share.md</a></td></tr><tr><td><strong>On-chain ads</strong></td><td>Mintable NFT placements with permanent visibility in-world.</td><td><a href="on-chain-ads.md">on-chain-ads.md</a></td></tr><tr><td><strong>Launchpad</strong></td><td>Meme communities ship their own branded Astroverse — token, mascot, rules.</td><td><a href="gameplay/multiverse-launchpad.md">multiverse-launchpad.md</a></td></tr></tbody></table>
 
 ***
 

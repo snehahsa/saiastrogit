@@ -1,7 +1,7 @@
 ---
 description: >-
-  $ASTROVERSE Will be launched on either Base or Ethereum mainnet — 1B supply,
-  stealth launch, 85/15 allocation, 3/3 tax split, burns, rewards, and buybacks.
+  $ASTROVERSE on Base — 1B supply, 5 ETH LP, stealth launch, 85/15 allocation,
+  3/3 tax split, burns, rewards, and buybacks.
 icon: coins
 layout:
   width: wide
@@ -23,11 +23,13 @@ layout:
     visible: true
 ---
 
-# Tokenomics (To be Decided)
+# Tokenomics
 
-<figure><img src=".gitbook/assets/tokenom.png" alt="$ASTROVERSE tokenomics"><figcaption><p>$ASTROVERSE — powers the ecosystem flywheel.</p></figcaption></figure>
+<figure><img src=".gitbook/assets/tokenom.png" alt="$ASTROVERSE tokenomics"><figcaption><p>$ASTROVERSE — powers the ecosystem flywheel on Base.</p></figcaption></figure>
 
-The token is built to **power the wider ecosystem**. In-game revenue routes to **burns**, **player rewards**, and **buybacks** so on-chain activity feeds back into the economy.
+The token is built to **power the wider ecosystem** on **Base**. In-game revenue routes to **burns**, **player rewards**, and **buybacks** so on-chain activity feeds back into the economy.
+
+Every revenue stream runs through the **100% revenue share** model — see [Revenue share](revenue-share.md).
 
 {% hint style="success" %}
 **Stealth launch. No presales. No bundles.** Fair entry, community-first distribution narrative.
@@ -37,12 +39,13 @@ The token is built to **power the wider ecosystem**. In-game revenue routes to *
 
 ## Token facts
 
-| Field      | Value                             |
-| ---------- | --------------------------------- |
-| **Ticker** | $ASTROVERSE                       |
-| **Chain**  | Ethereum (ETH)                    |
-| **Supply** | 1,000,000,000                     |
-| **Launch** | Stealth — no presales, no bundles |
+| Field         | Value                             |
+| ------------- | --------------------------------- |
+| **Ticker**    | $ASTROVERSE                       |
+| **Chain**     | Base                              |
+| **Liquidity** | **5 ETH** LP on Uniswap           |
+| **Supply**    | 1,000,000,000                     |
+| **Launch**    | Stealth — no presales, no bundles |
 
 ***
 
@@ -52,7 +55,7 @@ The token is built to **power the wider ecosystem**. In-game revenue routes to *
 {% column %}
 ### 85% — Uniswap liquidity
 
-Primary liquidity on Uniswap. Depth and access for the open market.
+Primary liquidity on Uniswap with **5 ETH** paired at launch. Depth and access for the open market on **Base**.
 {% endcolumn %}
 
 {% column %}
@@ -91,7 +94,7 @@ $ASTROVERSE is designed for:
 * Premium features and ecosystem upgrades
 * Future governance and deeper integrations
 
-Players also earn **$ETH** and **community/admin-configured tokens** through quests, challenges, survival, and treasure content — per world setup.
+Players also earn **$ASTROVERSE** and **community/admin-configured tokens** on **Base** through quests, challenges, survival, and treasure content — per world setup.
 
 ***
 
@@ -99,7 +102,7 @@ Players also earn **$ETH** and **community/admin-configured tokens** through que
 
 Per [FAQ](faq.md):
 
-* **Liquidity lock** — scheduled **3 years**
+* **5 ETH liquidity pool** — locked for **3 years**
 * **Contract renounce** — planned **immediately after launch**, subject to legal and security review
 
 ***

@@ -17,7 +17,8 @@
 
 ## Economy
 
-* [Tokenomics (To be Decided)](tokenomics.md)
+* [Tokenomics](tokenomics.md)
+* [Revenue share](revenue-share.md)
 * [On-chain Ads](on-chain-ads.md)
 
 ## Build

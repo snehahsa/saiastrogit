@@ -23,9 +23,9 @@ Open a question below. For live updates, hit [Telegram](https://t.me/astroverseX
 
 Yes. **$ASTROVERSE** powers the wider ecosystem.
 
-In-game revenue is allocated to **burns**, **player rewards**, and **buybacks** so on-chain activity feeds back into the economy.
+In-game revenue is allocated to **burns**, **player rewards**, and **buybacks** through a **100% revenue share** model on **Base** — see [Revenue share](revenue-share.md).
 
-See [Tokenomics](tokenomics.md) for allocation and tax split.
+See [Tokenomics](tokenomics.md) for allocation, **5 ETH LP**, and tax split.
 
 </details>
 
@@ -57,7 +57,7 @@ Identity and eligibility can be verified through the **Telegram bot** — you do
 
 Yes — **planned** as follows, subject to final **legal and security review**:
 
-* **Liquidity locked** for **three years**
+* **5 ETH liquidity pool** on **Base** — locked for **three years**
 * **Contract renounce** immediately after launch
 
 Always verify on official channels before trading.

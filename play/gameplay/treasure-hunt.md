@@ -30,7 +30,7 @@ Hidden rewards, rare pickups, and event loot scattered across sectors — first 
 Rewards tie into the wider economy:
 
 * **$ASTROVERSE** and quest/challenge payouts
-* **$ETH** and community-configured tokens (per admin setup)
+* **$ASTROVERSE** and community-configured tokens on **Base** (per admin setup)
 * Rare cosmetics and event items
 * Limited collectibles
 * Future NFT-linked drops

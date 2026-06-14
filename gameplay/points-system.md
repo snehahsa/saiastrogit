@@ -57,4 +57,4 @@ PTS = (seconds alive × 10) + pickup bonuses − (asteroid hits × 3)
 
 ## Tie-in to rewards
 
-PTS drives session competition and leaderboard culture. Broader **$ASTROVERSE**, **$ETH**, and community token payouts flow through quests, challenges, and ecosystem programs — see [Tokenomics](../tokenomics.md).
+PTS drives session competition and leaderboard culture. Broader **$ASTROVERSE** and community token payouts on **Base** flow through quests, challenges, and ecosystem programs — see [Tokenomics](../tokenomics.md) and [Revenue share](../revenue-share.md).
